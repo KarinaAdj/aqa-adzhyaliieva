@@ -10,3 +10,4 @@ public class StepSecond {
         System.out.println(Math.sqrt(s));
     }
 }
+
